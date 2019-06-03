@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF: -1 FOX
+https://petopa152.caraponi.me/live/foxaction/119200.ts
